@@ -1,6 +1,9 @@
-## Yo ❗
+## Hey ❗
 My name is Gio.
-I'm fluent in C and on my way to get better in Minecraft Java ⛏️
+I'm currently learning Java ☕
+I'm Familiar with:
+- C
+- Java
 <!--
 **bons1man/bons1man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
