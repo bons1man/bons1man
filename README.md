@@ -1,7 +1,4 @@
-## Hey ❗
-My name is Gio.
-I'm currently learning Java ☕
-I'm Familiar with: C and Java
+## 👋
 <!--
 **bons1man/bons1man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
