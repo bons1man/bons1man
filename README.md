@@ -1,8 +1,4 @@
-# 💫 About Me:
-I just code 👨‍💻
-
-
-## 🌐 Socials:
+## 🌎 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/dGj7YWTA) 
 
 # 💻 Tech Stack:
